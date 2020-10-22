@@ -23,3 +23,5 @@ away from the source region.
 # Methodology
 We compared our measurements of particle aging with a model simulation.
 The model is detailed in Smith et al 2002.
+
+Smaller particles were measured using a Scanning Mobility Particle Sizer (SMPS).
